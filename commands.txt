@@ -4,3 +4,4 @@ git commit -m "msg"
 
 git status
 git push origin master
+git add .
